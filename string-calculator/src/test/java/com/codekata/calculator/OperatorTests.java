@@ -2,7 +2,6 @@ package com.codekata.calculator;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.codekata.Operator;
 import java.util.stream.Stream;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

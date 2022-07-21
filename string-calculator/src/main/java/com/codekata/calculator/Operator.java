@@ -1,4 +1,4 @@
-package com.codekata;
+package com.codekata.calculator;
 
 import java.util.Arrays;
 import java.util.Objects;
