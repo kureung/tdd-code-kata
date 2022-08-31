@@ -2,3 +2,7 @@
 .gradle
 build
 /tdd-code-kata.iml
+/numberbaseball/build.gradle
+/password-level-meter.iml
+/numberbaseball/settings.gradle
+/string-calculator.iml
